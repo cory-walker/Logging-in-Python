@@ -1,0 +1,5 @@
+2021-02-06 15:04:11,735 - DEBUG - This is a debug log
+2021-02-06 15:04:11,735 - INFO - This is an info log
+2021-02-06 15:04:11,735 - WARNING - This is a warning
+2021-02-06 15:04:11,735 - ERROR - This is an error
+2021-02-06 15:04:11,736 - INFO - This contains a variable
